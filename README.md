@@ -1,4 +1,8 @@
 # Parachute Service Documentation
+## **NOTE**
+THIS SERVICE IS NOT PUBLICALLY AVALIABLE.
+IF YOU WOULD LIKE ACCESS TO THIS, PLEASE DM ME ON DISCORD @bimbles_dev
+
 
 ## **Introduction**
 
